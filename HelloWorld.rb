@@ -5,4 +5,9 @@ c=num1+num2
 puts c
 end
 
+def subtract(a,b)
+puts a-b
+end
+
 add(1,2)
+subtract(2,1)
